@@ -1,0 +1,20 @@
+#footer{
+	
+	background: #dcdcdc;
+}
+#nav .container-fluid{
+	padding: 0px;
+}
+#nav .navbar-static-top{
+	margin-bottom: 0px ;
+}
+#nav .navbar-header a{
+	color: #ccc;
+}
+#nav .navbar-header a:hover{
+	color: #fff;
+}
+#nav .nav li{
+	float: left;
+	width: 33%;
+}
